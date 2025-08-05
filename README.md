@@ -35,4 +35,4 @@ Here are some ideas to get you started:
 <br/>
 
 ##### <div align="left">Thank you for the visit!</div>  
-![Visitor Count](https://profile-counter.glitch.me/{caatclaudia}/count.svg)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=caatclaudia)
